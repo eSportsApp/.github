@@ -6,4 +6,4 @@ For infos about this Project checkout our [Website](https://esportsapp.gg/landin
 
 ## Contribution
 
-We appreciate everyone who wants to help. If you are interessted or you want more info about it feel free to join our discord or contact us via [email](mailto:fabian.maier@esportsapp.gg) (fabian.maier@esportsapp.gg)
+We appreciate everyone who wants to help. If you are interessted or you want more info about it feel free to join our discord or contact us via [email](mailto:fabian.m@esportsapp.gg) (fabian.m@esportsapp.gg)
